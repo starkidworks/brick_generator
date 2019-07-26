@@ -1,7 +1,7 @@
 module MadLibs
   PARTS_OF_SPEECH = {
-    nouns:        %w(boris),
-    plural_nouns: %w(johnson),
-    adjectives:   %w(idiot)
+    nouns:        %w(boris\clown),
+    plural_nouns: %w(johnson\bojo),
+    adjectives:   %w(idiot\fool)
   }
 end
